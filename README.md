@@ -14,7 +14,5 @@
 ### 🤔 I’m looking for help with
 - Improving my backend skills with Node.js
 - Best practices in scalable web apps
-- 
-### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=eliascre
+
 
