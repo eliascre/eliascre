@@ -22,7 +22,7 @@
 These are technologies I've used in projects or am currently exploring:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vite,nodejs,docker" alt="Python, JavaScript, TypeScript, React, Vite, Node.js, and Docker" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,angular,react,vite,nodejs,docker" alt="Python, JavaScript, TypeScript, Angular, React, Vite, Node.js, and Docker" />
 </p>
 
 ## 🌟 Featured projects
@@ -36,28 +36,10 @@ These are technologies I've used in projects or am currently exploring:
 ## 📊 GitHub statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eliascre&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eliascre&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-## 🏆 GitHub achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliascre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
-</div>
-
-## 📈 Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliascre&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
----
-
-<div align="center">
-  <i>Always learning, building, and experimenting.</i>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliascre&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub profile statistics" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliascre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
+  </a>
 </div>
