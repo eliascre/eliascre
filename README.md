@@ -32,14 +32,5 @@ These are technologies I've used in projects or am currently exploring:
 | [QuestCrafter](https://github.com/eliascre/QuestCrafter) | An AI Dungeon Master that generates fantasy quests from prompts, with a fine-tuned language model and an interactive demo. | Python, Streamlit, AI |
 | [GDP Dashboard](https://github.com/eliascre/gdp-dashboard) | A Streamlit dashboard for exploring GDP data from countries around the world. | Python, Streamlit |
 | [Nexus Dashboard](https://github.com/eliascre/app-react) | A React productivity dashboard with a focus on a polished interface and privacy. | React, TypeScript, Vite |
-
-## 📊 GitHub statistics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliascre&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub profile statistics" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliascre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
-  </a>
-</div>
+| [Fullstack App](https://github.com/eliascre/vercel) | A full-stack application with a React frontend and a Node.js/Express API. | React, Vite, Node.js, Express |
+| [FlaskApp](https://github.com/eliascre/FlaskApp) | A minimal Flask web app with a simple HTTP endpoint and a Dockerfile. | Python, Flask, Docker |
